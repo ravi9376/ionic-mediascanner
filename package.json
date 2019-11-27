@@ -1,0 +1,29 @@
+{
+  "name": "ionic-mediascanner",
+  "version": "1.2.1",
+  "description": "Referesh the Media file in Android Device Gallery application",
+  "main": "index.js",
+  "cordova": {
+    "id": "rwe.com.ravi.MediaScannerPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "keywords": [
+    "npm",
+    "media-scanner",
+    "ionic",
+    "image",
+    "refresh",
+    "galllery",
+    "refresh"
+  ],
+  "author": "Raviprakash Dhanuka",
+  "license": "UNLICENSED"
+}

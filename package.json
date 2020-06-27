@@ -25,5 +25,16 @@
     "refresh"
   ],
   "author": "Raviprakash Dhanuka",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi9376/ionic-mediascanner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ravi9376/ionic-mediascanner/issues"
+  },
+  "homepage": "https://github.com/ravi9376/ionic-mediascanner#readme"
 }

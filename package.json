@@ -1,6 +1,6 @@
 {
   "name": "ionic-mediascanner",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Refresh the Media file in Android Device Gallery application instantly after download from the Ionic Application",
   "main": "index.js",
   "cordova": {
